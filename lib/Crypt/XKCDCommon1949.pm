@@ -374,8 +374,4 @@ L<http://xkcd.com/936/>, L<http://preshing.com/20110811/xkcd-password-generator>
 
 L<Crypt::Diceware>, L<Crypt::XkcdPassword>, L<Acme::MetaSyntactic>
 
-L<Acme::MetaSyntatic::xkcdcommon1949>
-
-L<Acme::MetaSyntatic::xkcdcommon1949>
-
 =cut
