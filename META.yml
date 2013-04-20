@@ -25,5 +25,10 @@ recommends:
   Crypt::Diceware: 0.002
   Crypt::XkcdPassword: 0
 resources:
+  homepage: https://github.com/2shortplanks/Crypt-XKCDCommon1949/tree
   license: http://dev.perl.org/licenses/
+  repository:
+    type: git
+    url: git://github.com/2shortplanks/Crypt-XKCDCommon1949.git
+    web: https://github.com/2shortplanks/Crypt-XKCDCommon1949/tree
 version: 1.00
