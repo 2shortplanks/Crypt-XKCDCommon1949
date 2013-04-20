@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'xkcd password style wordlist provider'
 author:
   - 'Written by Mark Fowler <mark@twoshortplanks.com>'
 build_requires:
@@ -14,7 +14,7 @@ license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
-name: Mac-KeyboardMaestro
+name: Crypt-XKCDCommon1949
 no_index:
   directory:
     - inc

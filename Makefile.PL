@@ -1,6 +1,6 @@
 use inc::Module::Install;
 
-name           'Mac-KeyboardMaestro';
+name           'Crypt-XKCDCommon1949';
 all_from       'lib/Crypt/XKCDCommon1949.pm';
 
 test_requires  'Test::More'       => 0;
