@@ -253,10 +253,12 @@ our @words = (
 "year","yellow","yes","yesterday","yet","you","young","younger",
 "your","yourself","youth","zero","zoo"
 );
-push @EXPORT_OK, '@words';
+push @EXPORT_OK, '@'.'words';
 
 sub xkcd_common_1949() { return @words }
 push @EXPORT_OK, 'xkcd_common_1949';
+
+1;
 
 __END__
 

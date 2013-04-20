@@ -15,6 +15,8 @@ __PACKAGE__->init();
 # Crypt::XKCDCommon1949 instead
 *List = \@Crypt::XKCDCommon1949::words;
 
+1;
+
 __DATA__
 __END__
 

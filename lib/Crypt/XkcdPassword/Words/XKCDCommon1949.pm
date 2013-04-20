@@ -3,6 +3,8 @@ package Crypt::XkcdPassword::Words::XKCDCommon1949;
 use strict;
 use warnings;
 
+our $VERSION = '1.000';
+
 use Crypt::XKCDCommon1949 qw(@words);
 sub words { return \@words }
 
@@ -22,6 +24,16 @@ Crypt::XkcdPassword::Words::XKCDCommon1949 - xkcd common wordlist for Crypt::Xkc
 =head1 DESCRIPTION
 
 Interface for Crypt::XkcdPassword to the XKCD common 1949 wordlist.
+
+=head2 Functions
+
+=over
+
+=item words
+
+Returns a reference to an array of 1949 common words.  Don't mess with them.
+
+=back 
 
 =head1 AUTHOR
 
